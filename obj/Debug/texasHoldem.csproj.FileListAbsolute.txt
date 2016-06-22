@@ -1,0 +1,11 @@
+c:\users\izzy\documents\visual studio 2012\Projects\texasHoldem\texasHoldem\bin\Debug\texasHoldem.exe.config
+C:\Users\izzy\documents\visual studio 2012\Projects\texasHoldem\texasHoldem\obj\Debug\texasHoldem.csprojResolveAssemblyReference.cache
+C:\Users\izzy\documents\visual studio 2012\Projects\texasHoldem\texasHoldem\obj\Debug\texasHoldem.Menu.resources
+C:\Users\izzy\documents\visual studio 2012\Projects\texasHoldem\texasHoldem\obj\Debug\texasHoldem.Properties.Resources.resources
+C:\Users\izzy\documents\visual studio 2012\Projects\texasHoldem\texasHoldem\obj\Debug\texasHoldem.Table.resources
+C:\Users\izzy\documents\visual studio 2012\Projects\texasHoldem\texasHoldem\obj\Debug\texasHoldem.WinnerQueryBox.resources
+C:\Users\izzy\documents\visual studio 2012\Projects\texasHoldem\texasHoldem\obj\Debug\texasHoldem.csproj.GenerateResource.Cache
+C:\Users\izzy\documents\visual studio 2012\Projects\texasHoldem\texasHoldem\bin\Debug\texasHoldem.exe
+C:\Users\izzy\documents\visual studio 2012\Projects\texasHoldem\texasHoldem\bin\Debug\texasHoldem.pdb
+C:\Users\izzy\documents\visual studio 2012\Projects\texasHoldem\texasHoldem\obj\Debug\texasHoldem.exe
+C:\Users\izzy\documents\visual studio 2012\Projects\texasHoldem\texasHoldem\obj\Debug\texasHoldem.pdb
